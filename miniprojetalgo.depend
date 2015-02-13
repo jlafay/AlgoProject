@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1326904457 source:c:\users\chong\.swt\c\miniprojetalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+	"pose.h"
+
+1326903169 c:\users\chong\.swt\c\miniprojetalgo\init.h
+
+1326903169 c:\users\chong\.swt\c\miniprojetalgo\pose.h
+
+1326903928 source:c:\users\chong\.swt\c\miniprojetalgo\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
+1326904498 source:c:\users\chong\.swt\c\miniprojetalgo\init.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+
+1326903609 source:c:\users\chong\.swt\c\miniprojetalgo\alignement.c
+
+1326906261 source:c:\users\joe\desktop\mini projet\init.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+
+1326903168 c:\users\joe\desktop\mini projet\init.h
+
+1326905902 source:c:\users\joe\desktop\mini projet\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
+1326903168 c:\users\joe\desktop\mini projet\pose.h
+
+1326903608 source:c:\users\joe\desktop\mini projet\alignement.c
+
+1326905761 source:c:\users\joe\desktop\mini projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+	"pose.h"
+
+1326905761 source:c:\users\joe\desktop\mini projet valentin chong\main.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+	"pose.h"
+
+1326903168 c:\users\joe\desktop\mini projet valentin chong\init.h
+
+1326903168 c:\users\joe\desktop\mini projet valentin chong\pose.h
+
+1326906339 source:c:\users\joe\desktop\mini projet valentin chong\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
+1326903608 source:c:\users\joe\desktop\mini projet valentin chong\alignement.c
+
+1326906924 source:c:\users\joe\desktop\mini projet valentin chong\init.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+
+1326906926 source:c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\init.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+
+1326903168 c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\init.h
+
+1326910049 source:c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\main.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+	"pose.h"
+	"alignement.h"
+	"paires.h"
+
+1326903168 c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\pose.h
+
+1326908710 source:c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
+1326908399 source:c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\alignement.c
+	<stdio.h>
+	<stdlib.h>
+	"alignement.h"
+
+1326903720 c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\alignement.h
+
+1326910108 c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\paires.h
+
+1326908809 source:c:\users\chong\documents\mini projet valentin chong\mini projet valentin chong\paires.c
+
+1326906926 source:c:\users\victor\desktop\mini projet valentin chong\init.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+
+1326903168 c:\users\victor\desktop\mini projet valentin chong\init.h
+
+1326910050 source:c:\users\victor\desktop\mini projet valentin chong\main.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+	"pose.h"
+	"alignement.h"
+	"paires.h"
+
+1326903168 c:\users\victor\desktop\mini projet valentin chong\pose.h
+
+1326903720 c:\users\victor\desktop\mini projet valentin chong\alignement.h
+
+1326910110 c:\users\victor\desktop\mini projet valentin chong\paires.h
+
+1326908810 source:c:\users\victor\desktop\mini projet valentin chong\paires.c
+
+1326908712 source:c:\users\victor\desktop\mini projet valentin chong\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
+1326908400 source:c:\users\victor\desktop\mini projet valentin chong\alignement.c
+	<stdio.h>
+	<stdlib.h>
+	"alignement.h"
+
+1326906926 source:c:\users\jul\desktop\miniprojet\init.c
+	<stdio.h>
+	<stdlib.h>
+	"init.h"
+
+1326903168 c:\users\jul\desktop\miniprojet\init.h
+
+1327008808 source:c:\users\jul\desktop\miniprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"initialise.h"
+	"pose.h"
+	"alignement.h"
+	"paire.h"
+
+1326903168 c:\users\jul\desktop\miniprojet\pose.h
+
+1327003508 c:\users\jul\desktop\miniprojet\alignement.h
+
+1326910110 c:\users\jul\desktop\miniprojet\paires.h
+
+1326908810 source:c:\users\jul\desktop\miniprojet\paires.c
+
+1327008759 source:c:\users\jul\desktop\miniprojet\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
+1327003508 source:c:\users\jul\desktop\miniprojet\alignement.c
+	<stdio.h>
+	<stdlib.h>
+	"alignement.h"
+
+1327006465 source:c:\users\jul\desktop\miniprojet\initialise.c
+	<stdio.h>
+	<stdlib.h>
+	"initialise.h"
+
+1326903168 c:\users\jul\desktop\miniprojet\initialise.h
+
+1327006509 source:c:\users\jul\desktop\miniprojet\paire.c
+	<stdio.h>
+	<stdlib.h>
+	"paire.h"
+
+1326910110 c:\users\jul\desktop\miniprojet\paire.h
+
+1326999908 source:c:\users\14586_000\desktop\projectlist\algoproject 2012\alignement.c
+	<stdio.h>
+	<stdlib.h>
+	"alignement.h"
+
+1326999908 c:\users\14586_000\desktop\projectlist\algoproject 2012\alignement.h
+
+1327002864 source:c:\users\14586_000\desktop\projectlist\algoproject 2012\initialise.c
+	<stdio.h>
+	<stdlib.h>
+	"initialise.h"
+
+1326899568 c:\users\14586_000\desktop\projectlist\algoproject 2012\initialise.h
+
+1327005208 source:c:\users\14586_000\desktop\projectlist\algoproject 2012\main.c
+	<stdio.h>
+	<stdlib.h>
+	"initialise.h"
+	"pose.h"
+	"alignement.h"
+	"paire.h"
+
+1326899568 c:\users\14586_000\desktop\projectlist\algoproject 2012\pose.h
+
+1326906510 c:\users\14586_000\desktop\projectlist\algoproject 2012\paire.h
+
+1327002908 source:c:\users\14586_000\desktop\projectlist\algoproject 2012\paire.c
+	<stdio.h>
+	<stdlib.h>
+	"paire.h"
+
+1327005158 source:c:\users\14586_000\desktop\projectlist\algoproject 2012\pose.c
+	<stdio.h>
+	<stdlib.h>
+	"pose.h"
+
